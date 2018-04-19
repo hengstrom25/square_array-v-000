@@ -1,3 +1,6 @@
 def square_array(array)
-  # your code here
+  arr = []
+  array.each do |number| 
+    "#{number[arr}*#{number[arr]}"
+  end
 end
